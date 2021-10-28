@@ -1,29 +1,22 @@
-## नमस्ते 🙏
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+<!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
+Hi there, thanks for stopping by, this is **Your_Name_Here** from **your_place**.
 
-## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+I usally build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
-[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning...
+- 📫 You can find me on...
+ 
 ---
 
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
+</p>
 
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
+---
+⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
